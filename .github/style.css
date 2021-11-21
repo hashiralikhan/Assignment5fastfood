@@ -1,0 +1,343 @@
+.nav-link
+{
+    font-weight: bold;
+    margin: 5px;
+    color: white !important;
+
+}
+.nav-item
+{
+    color: white;
+}
+.navbar-brand
+{
+    margin-top: 30px;
+}
+#navBackground
+{
+    background-image: url(img.png);
+    background-repeat: no-repeat;
+  width: 100%;
+  height: auto;
+  
+  background-size: contain;
+
+background-position: top;
+
+
+
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:cover;
+background-position:center
+}
+.navH1
+{
+color: white;
+font-weight: 900;
+margin-left: 40px;
+}
+.navpara1
+{
+    color: white;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.orderBtn
+{
+    text-align: center;
+    margin-left:40px ;
+    margin-top: 30px;
+  color: white;
+  font-weight: bolder;
+background-color: #f64b3c;
+margin-bottom: 50px;
+padding: 0 3%; 
+    border-radius: 50px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    outline: none;
+    
+}
+.navbar-collapse,.navbar-toggler
+{
+    color: white;
+}
+.ourChef
+{
+    text-align: center;
+    color: #f64b3c;
+    margin-top: 50px;
+    
+    
+
+}
+.ourChef1
+{
+    text-align: center;
+    color: #f64b3c;
+    margin-top: 30px;
+    
+}
+.radiusImg1
+{
+    margin-top: 50px;
+    width: 150px;
+    text-align: center;
+    border-radius: 50%;
+    margin-bottom: 10px;
+
+}
+.radiusPara
+{
+  color: #f64b3c;
+   
+}
+#background2
+{
+   background-image: url(Frame\ 1\ \(1\).png);
+   
+   background-repeat: no-repeat;
+ width: 100%;
+ height: auto;
+ 
+ background-size: contain;
+
+background-position: top;
+
+
+
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:cover;
+background-position:center;
+
+}
+.burgerImg
+{
+    width: 250px;
+    margin-top: 80px;
+    border-radius: 50%;
+    margin-bottom: 25px;
+}
+.burgerPara
+{
+    margin-top:100px ;
+    color:white;
+    margin-bottom: 25px;
+}
+.burgerBtn
+{
+   
+padding: 0 10%;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    color:#f64b3c;
+    background-color: white;
+    margin-bottom: 80px;
+
+
+}
+.burgerPara1
+{
+    margin-top:160px ;
+    color:#f64b3c;
+    margin-bottom: 80px;
+}
+.burgerBtn1
+{
+   
+padding: 0 10%;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    color:white;
+    background-color:#f64b3c;
+    margin-bottom: 80px;
+
+
+}
+#bgChange
+{
+    
+        background-image: url(Frame\ 1\ \(2\).png);
+        
+        background-repeat: no-repeat;
+      width: 100%;
+      height: auto;
+      
+      background-size: contain;
+     
+     background-position: top;
+     
+     
+     
+     -webkit-background-size:cover;
+     -moz-background-size:cover;
+     -o-background-size:cover;
+     background-size:cover;
+     background-position:center;
+     
+     
+}
+#statisc
+{
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+    background-color: #f64b3c;
+    border: 3px solid white;
+    outline-color: white;
+    text-align: center;
+    border-radius: 50%;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+}
+.statePara
+{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+}
+.stateParagrh
+{
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+    font-weight: bold;
+}
+.stateParagrh1
+{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    
+}
+.PopularHeading
+{
+    margin-top: 50px;
+    color: #f64b3c;
+    text-align: center;
+    font-weight: bolder;
+}
+.cart
+{
+    border: 2px solid whitesmoke;
+    width: 200px;
+    height: 310px;
+    color:  #f64b3c;
+    text-align: center;
+   margin-top: 20px;
+margin-bottom: 30px;
+background-color: white;
+  
+}
+.cartOrderBtn
+{
+    text-align: center;
+    
+  color: white;
+  font-weight: bolder;
+background-color: #f64b3c;
+margin-bottom: 50px;
+padding: 0 3%; 
+    border-radius: 50px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    outline: none;
+    margin-bottom: 10px;
+}
+.paraHandery
+{
+    text-align: center;
+    margin-top: 250px;
+    color: white;
+    font-weight: bolder;
+}
+.paraHandery1
+{
+    text-align: center;
+    margin-bottom: 150px;
+    color: white;
+    font-weight: bolder;
+}
+
+#redBackground
+{
+    
+    background-image: url(./red\ img.jpg);
+        
+    background-repeat: no-repeat;
+  width: 100%;
+  height: auto;
+  
+  background-size: contain;
+ 
+ background-position: top;
+ 
+ 
+ 
+ -webkit-background-size:cover;
+ -moz-background-size:cover;
+ -o-background-size:cover;
+ background-size:cover;
+ background-position:center;
+}
+.missUpdate
+{
+    color: #f64b3c;
+    margin-top: 120px;
+    font-weight: bolder;
+}
+.missUpdate1
+{
+    color: #f64b3c;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.inputDesign
+{
+    border-radius: 50px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    outline: none;
+}
+.inputDesignBtn
+{
+    border-radius: 50px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    outline: none;
+    color: white;
+    background-color:#f64b3c ;
+    margin-right: 2px;
+}
+.inputCollection
+{
+    margin-bottom: 120px;
+}
+#footerContainer
+{
+    margin-top: 100px;
+    color: white;
+    
+    margin-bottom: 50px;
+
+}
